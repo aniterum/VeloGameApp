@@ -1,0 +1,12 @@
+*.class
+*.cache
+*.apk
+*.ap_
+*.dex
+BuildConfig.java
+R.java
+*.sqlite
+*.*~
+bin/dexedLibs/
+bin/
+gen/
